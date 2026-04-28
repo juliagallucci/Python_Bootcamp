@@ -61,7 +61,7 @@ Click **“New Notebook”** to start a fresh Python notebook.
 
 ### 3. Load course materials
 
-If you are opening a notebook from GitHub:
+If you are opening a notebook from [GitHub](https://colab.research.google.com/github/):
 
 * Click **File → Open notebook**
 * Select the **GitHub** tab
