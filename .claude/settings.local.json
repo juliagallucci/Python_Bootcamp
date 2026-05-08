@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(node --version)",
+      "PowerShell(npm --version)",
+      "PowerShell(wsl --status)",
+      "PowerShell(claude --version)",
+      "PowerShell(Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser -Force)",
+      "PowerShell(npm install -g @anthropic-ai/claude-code)"
+    ]
+  }
+}
